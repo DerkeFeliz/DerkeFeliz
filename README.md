@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  📖 [Documentation](https://ai16z.github.io/Aporia/) | 🎯 [Examples](https://github.com/thejoven/awesome-Aporia)
+  📖 [Documentation](https://ai16z.github.io/violet/) | 🎯 [Examples](https://github.com/thejoven/awesome-violet)
   
 </div>
 
@@ -68,7 +68,7 @@ cp .env.example .env
     - Use `pnpm start --characters="path/to/your/character.json"`
     - Multiple character files can be loaded simultaneously
 
-### Start Aporia
+### Start violet
 
 After setting up the .env file and character file, you can start the bot with the following command:
 
@@ -91,15 +91,15 @@ pnpm install --include=optional sharp
 
 ### Community & contact
 
--   [GitHub Issues](https://github.com/ai16z/Aporia/issues). Best for: bugs you encounter using Aporia, and feature proposals.
+-   [GitHub Issues](https://github.com/ai16z/violet/issues). Best for: bugs you encounter using violet, and feature proposals.
 -   [Discord](https://discord.gg/ai16z). Best for: sharing your applications and hanging out with the community.
 
 ## Contributors
 
-<a href="https://github.com/ai16z/Aporia/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ai16z/Aporia" />
+<a href="https://github.com/ai16z/violet/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ai16z/violet" />
 </a>
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ai16z/Aporia&type=Date)](https://star-history.com/#ai16z/Aporia&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ai16z/violet&type=Date)](https://star-history.com/#ai16z/violet&Date)
