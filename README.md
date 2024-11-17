@@ -1,7 +1,7 @@
-# Eliza 🤖
+# Aporia
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <a href="https://ibb.co/3y03ps1"><img src="https://i.ibb.co/vxJF3B1/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>virtual dice dnd</a><br />
 </div>
 
 <div align="center">
