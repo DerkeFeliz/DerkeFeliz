@@ -1,8 +1,7 @@
 # Violet
 
 <div align="center">
-  <a href="https://ibb.co/vvvXrxv"><img src="https://i.ibb.co/wrrcbNr/loooollll.png" alt="loooollll" border="0"></a>
-</div>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/8cpg4RD/dddddddddddddddddd.png" alt="dddddddddddddddddd" border="0"></a>
 
 <div align="center">
   
