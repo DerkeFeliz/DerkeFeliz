@@ -5,8 +5,6 @@
 
 <div align="center">
   
-  📖 (https://ai16z.github.io/Velis Drayke/) | 🎯 (https://github.com/thejoven/awesome-Velis Drayke)
-  
 </div>
 
 ## ✨ Features
