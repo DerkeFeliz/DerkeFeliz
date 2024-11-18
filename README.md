@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  📖 [Documentation](https://ai16z.github.io/Velis Drayke/) | 🎯 [Examples](https://github.com/thejoven/awesome-Velis Drayke)
+  📖 [Documentation] (https://ai16z.github.io/Velis Drayke/) | 🎯 [Examples] (https://github.com/thejoven/awesome-Velis Drayke)
   
 </div>
 
