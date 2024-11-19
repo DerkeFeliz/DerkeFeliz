@@ -1,4 +1,4 @@
-# Derke Feliz
+# The Void Walker
 
 <div align="center">
  <a href="https://ibb.co/4Vk3dFM"><img src="https://i.ibb.co/z4dDJmb/1ecc8aa3-8c30-4a99-990d-854746d82f6a.png" alt="1ecc8aa3-8c30-4a99-990d-854746d82f6a" border="0"></a>
@@ -65,7 +65,7 @@ cp .env.example .env
     - Use `pnpm start --characters="path/to/your/character.json"`
     - Multiple character files can be loaded simultaneously
 
-### Start Derke Feliz Drayke
+### Start The Void Walker Feliz Drayke
 
 After setting up the .env file and character file, you can start the bot with the following command:
 
@@ -88,15 +88,15 @@ pnpm install --include=optional sharp
 
 ### Community & contact
 
--   [GitHub Issues](https://github.com/ai16z/Derke Feliz Drayke/issues). Best for: bugs you encounter using Derke Feliz Drayke, and feature proposals.
+-   [GitHub Issues](https://github.com/ai16z/The Void Walker Feliz Drayke/issues). Best for: bugs you encounter using The Void Walker Feliz Drayke, and feature proposals.
 -   [Discord](https://discord.gg/ai16z). Best for: sharing your applications and hanging out with the community.
 
 ## Contributors
 
-<a href="https://github.com/ai16z/Derke Feliz Drayke/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ai16z/Derke Feliz Drayke" />
+<a href="https://github.com/ai16z/The Void Walker Feliz Drayke/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ai16z/The Void Walker Feliz Drayke" />
 </a>
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ai16z/Derke Feliz Drayke&type=Date)](https://star-history.com/#ai16z/Derke Feliz Drayke&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ai16z/The Void Walker Feliz Drayke&type=Date)](https://star-history.com/#ai16z/The Void Walker Feliz Drayke&Date)
